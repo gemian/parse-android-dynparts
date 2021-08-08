@@ -7,6 +7,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 include(GNUInstallDirs)
 
+add_definitions(-D_FILE_OFFSET_BITS=64)
 add_subdirectory(liblp)
 
 add_executable(parse-android-dynparts main.cpp)
