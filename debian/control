@@ -7,7 +7,6 @@ Build-Depends: cmake, debhelper (>= 9), libssl-dev
 Standards-Version: 3.8.4
 
 Package: parse-android-dynparts
-Section: binary
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: A tool to parse Android super partition layout
