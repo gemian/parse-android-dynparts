@@ -1,3 +1,9 @@
+parse-android-dynparts (1.0.0+gemian1) unstable; urgency=medium
+
+  * Branching for gemian
+
+ -- Adam Boardman <adamboardman@gmail.com>  Thu, 20 Apr 2023 10:28:53 +0100
+
 parse-android-dynparts (1.0.0+ubports1) unstable; urgency=low
 
   * Add initial packaging for Ubuntu Touch.

@@ -1,6 +1,7 @@
 Source: parse-android-dynparts
 Priority: optional
-Maintainer: TheKit <thekit@disroot.org>
+Maintainer: Adam Boardman <adamboardman@gmail.com>
+XSBC-Original-Maintainer: TheKit <thekit@disroot.org>
 Build-Depends: cmake, debhelper (>= 9), libssl-dev
 Standards-Version: 3.8.4
 
