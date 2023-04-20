@@ -1,4 +1,5 @@
 Source: parse-android-dynparts
+Section: misc
 Priority: optional
 Maintainer: Adam Boardman <adamboardman@gmail.com>
 XSBC-Original-Maintainer: TheKit <thekit@disroot.org>
